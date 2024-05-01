@@ -2,7 +2,7 @@
 <h3 align='center'> - 👀 I’m interested in software developpement</h3>
 <h3 align='center'> - 🌱 I’m currently learning flutter</h3>
 <h3 align='center'> - 📫 My linkedln : www.linkedin.com/in/sloan-morgant-55502a29a</h3>
-<h3 align='center'> - ⚡ CO-Founder of Anyone Here</h3>
+<h3 align='center'> - ⚡ Founder of Anyone Here</h3>
 
 <p>
   <br/>
